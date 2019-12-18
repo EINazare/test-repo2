@@ -9,7 +9,6 @@
 ## Table of Contents
 
 * [Description](#description)
-* [File Structure](#file-structure)
 * [Documentation](#documentation)
 * [Demo](#demo)
 * [Quick Start](#quick-start)
@@ -19,19 +18,13 @@
 * [Useful Links](#useful-links)
 * [Resources](#resources)
 * [Versions](#versions)
+* [File Structure](#file-structure)
 
 
 ## Description
 
 Test repo 2 description
 
-
-## File Structure
-Within the download you'll find the following directories and files:
-
-```
-Tree view Test repo 2
-```
 
 
 ## Documentation
@@ -131,11 +124,20 @@ Test Repo1|
 
 ### PRO Design Systems (Kits)
 
-Test Repo|
-| --- |
-| <a href="https://www.creative-tim.com/product/test-repo" target="_blank">![Test Repo](https://s3.amazonaws.com/creativetim_bucket/products/165/original/opt_pk_react_thumbnail.jpg?1561532847)</a>  |
+|Test Repoalskdlasklkjdaldlksjlkjkldasjlkdjklsaklds|Test Repo|
+| --- | --- |
+| <a href="https://www.creative-tim.com/product/test-repoasdas" target="_blank">![Test Repoalskdlasklkjdaldlksjlkjkldasjlkdjklsaklds](https://s3.amazonaws.com/creativetim_bucket/products/165/original/opt_pk_react_thumbnail.jpg?1561532847)</a>  | <a href="https://www.creative-tim.com/product/test-repo" target="_blank">![Test Repo](https://s3.amazonaws.com/creativetim_bucket/products/165/original/opt_pk_react_thumbnail.jpg?1561532847)</a>  |
 
 
 
 
 
+
+
+
+## File Structure
+Within the download you'll find the following directories and files:
+
+```
+Tree view Test repo 2
+```
